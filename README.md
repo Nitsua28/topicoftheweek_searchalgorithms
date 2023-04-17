@@ -12,3 +12,5 @@ presentation for other associates
 ### ref
     - https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
     - https://www.geeksforgeeks.org/binary-search/
+    - https://leetcode.com/problems/binary-search/description/
+    
