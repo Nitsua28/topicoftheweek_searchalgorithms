@@ -2,11 +2,12 @@ package topicoftheweek_searchalgorithms;
 
 class LinearSearch {
     
-    static int linearSearch(int arr[], int n, int x)
+    static int linearSearch(int arr[], int size, int target)
     {
-        for (int i = 0; i < n; i++) {
+        //sequential
+        for (int i = 0; i < size; i++) {
             
-            if (arr[i] == x)
+            if (arr[i] == target)
                 return i;
         }
  
